@@ -1,7 +1,7 @@
 # ⛅ Weather Monitoring System : CT-1 Project
 
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
-![Course: BCA AI/ML)](https://img.shields.io/badge/Course-B.Tech_CS_AI/ML-blue)
+![Course: BCA AI/ML)](https://img.shields.io/badge/Course-BCA_AI/ML-blue)
 ![Subject: OOP with Java](https://img.shields.io/badge/Subject-OOP_with_Java-orange)
 
 ---
